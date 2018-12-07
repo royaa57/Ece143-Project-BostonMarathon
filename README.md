@@ -24,3 +24,19 @@ We will try to explore correlations by plotting and analysing different features
 * Country and state demographic
 * Pace in different phases and how can they affect the final performance
 (How can the runners choose strategy to get best finish time.)
+
+
+The data is in three files containing the runner's data (should be places in the current path)
+
+marathon_results_2015.csv
+marathon_results_2016.csv
+marathon_results_2017.csv
+
+And one .gpx data (also in the current path)
+
+boston-marathon-course.gpx
+
+Files to run:
+* To get the splits chart: Splits.py
+* To get the elevation chart: elevation.py
+
