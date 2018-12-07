@@ -1,0 +1,33 @@
+In file 'Pace Change 2016'
+We compare the pace change every 5K between all runners and top 100 runners to see the difference 
+and try to give suggestion about how runners can run better. 
+
+As we can see in the plot that it is distinct that all runners' pace change more violently while 
+top runners' pace change narrow. So we get the conclision that keep your pace steady is very 
+important in Marathon Game and you are more likely to get better grades.
+
+
+
+
+
+In file 'Pace Comparison between 2015-2017'
+In this programming, we want to compare the pace change nearly every 5k and try to get some conclusion 
+about how runners should adjust their pace to win the Marathon with more possibility.
+
+Some feature:
+
+Results are in minutes
+Time for each splits of nearly 5km
+
+The first plot is 'Pace change between 2015-2017', and from this plot we can see that both males and 
+females' pace change is steady, after 25K to 35K, runners' pace change more violently which may related 
+to the topography reason that Boston Marathon route is steady in the first half and really curve and 
+twisting in the second half, and there’s a famous “Heartbreak Hill” which starts at around the 32 
+Kilometre mark. One interesting point is that through our data analysis, we can see that from 35K to 
+Final, females' pace change reduced while males' pace change increased which we infer that maybe males
+just use all their power at the beginning of their run and so when they close to the final, they just do 
+not have enough energy to spurt.
+
+The second plot is 'All runners pace change during three years' which we can obviously see that runners
+perform better in 2015 which we infer may related to the weather because the weather in 2015 Marathon 
+was colder and maybe colder weather can produce better performance for Marathon.
