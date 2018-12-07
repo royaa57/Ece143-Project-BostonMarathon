@@ -1,1 +1,32 @@
+In file 'Reasons that may influence splits'
+We explore the reasons that may influence negative split
 
+First Figure:
+Plot the split ratio distribution. 
+That is, the time ratio between the first and a second half of the race. 
+A value smaller than 1 implies a negative split - i.e, the 2nd part of the race was faster than the first one. 
+And inversely, a value which is larger than 1 indicates the more intuitive (and evidently more common) positive 
+split. We only care about the meaning of horizontal axis and ignore vertical axis.
+As we can see, most of the runners chose (or were compelled to choose, limited by the constraints their body 
+imposes upon them) a positive split. They run the 2nd half slower than the first half. for most of them, 
+however, the difference is small and they are able to maintain a relatively constant pace. There's a long tail
+on the right of runners who slowed down significantly. On the left we can see a small minority of runners who 
+did in fact run a negative split.
+Second Figure:
+Overall Rank correlates with the splits:
+The better runners have a more negative (or less positive, to be more accurate) than worse runners.
+Third Figure:
+males vs females:
+The Average is very close, but the longer tail of the males distribution skews it to the right.
+Forth Figure:
+Split changes with age:
+We can see these five distributions virtually overlap.
+So we can quite conclusively say that the split rate is not age dependent.
+
+
+In file 'split and performance'
+Let's see whether split correlates with the general performance:
+We can see that while the general trend does show a very moderate increase in the split ratio with the overall rank 
+(that is - the lower the runner is ranked, the more positive his or her split is). However, the most dominant trend 
+is the growing variance: while the good runners are all concentrated around a split of, say, 1.2, the worse runners 
+are all around the place.
